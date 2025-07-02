@@ -6,6 +6,8 @@ A responsive scientific calculator using HTML, CSS, and JavaScript.
 A responsive, browser-based scientific calculator built using **HTML**, **CSS**, and **JavaScript**. It supports basic and advanced mathematical operations with a clean, modern UI.
 
 ![screenshot](https://user-images.githubusercontent.com/ashwinichauragade/screnshot.png) 
+![screenshot](https://raw.githubusercontent.com/ashwinichauragade/codeAlpha_calculator/main/screenshot.png)
+
 
 ## 🚀 Features
 - Standard arithmetic operations: `+`, `-`, `×`, `÷`, `%`
